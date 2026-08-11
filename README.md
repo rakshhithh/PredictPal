@@ -1,4 +1,4 @@
-<img width="415" height="233" alt="image" src="https://github.com/user-attachments/assets/a638ef7d-e53d-4e80-8825-660c28e7155b" /># PredictPal
+# PredictPal
 Predicting Loan Default Using Ensemble Models
 
 
