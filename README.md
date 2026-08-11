@@ -23,7 +23,7 @@ PredictPal addresses this problem by using historical lending data and borrower 
 
 The system aims to:
 
-<img width="1535" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0c363280-fa0a-458b-a773-7cde208770ea" />
+<img width="768" height="512" alt="Image" src="https://github.com/user-attachments/assets/0c363280-fa0a-458b-a773-7cde208770ea" />
 
 **🎯 Objectives**
 
